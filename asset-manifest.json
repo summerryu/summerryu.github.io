@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.71541b4d.css",
-    "main.js": "/static/js/main.c1146a39.js",
+    "main.js": "/static/js/main.4190c6ca.js",
     "static/js/453.1332818c.chunk.js": "/static/js/453.1332818c.chunk.js",
     "static/media/21_1x_shots_so.png": "/static/media/21_1x_shots_so.d7df5d5734e65874da0a.png",
     "static/media/563shots_so.png": "/static/media/563shots_so.6a84793e022a0dcd1abe.png",
@@ -11,6 +11,7 @@
     "static/media/otuastudy.png": "/static/media/otuastudy.ee02ac5ed2242fc03be3.png",
     "static/media/Main_img.png": "/static/media/Main_img.f68f65d50b039af90fc0.png",
     "static/media/828shots_so.png": "/static/media/828shots_so.2f0fe5cf1ed1b01f95c5.png",
+    "static/media/716shots_so.png": "/static/media/716shots_so.517c7bbee9e7590883a3.png",
     "static/media/otua.png": "/static/media/otua.817a97eb053b4eabcdf0.png",
     "static/media/774shots_so.png": "/static/media/774shots_so.c9b6847e7afb84aad162.png",
     "static/media/yeo.png": "/static/media/yeo.652e3c8177ed20c8990e.png",
@@ -23,11 +24,11 @@
     "static/media/cross.png": "/static/media/cross.8698fa3dc1e69bce4e5d.png",
     "index.html": "/index.html",
     "main.71541b4d.css.map": "/static/css/main.71541b4d.css.map",
-    "main.c1146a39.js.map": "/static/js/main.c1146a39.js.map",
+    "main.4190c6ca.js.map": "/static/js/main.4190c6ca.js.map",
     "453.1332818c.chunk.js.map": "/static/js/453.1332818c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71541b4d.css",
-    "static/js/main.c1146a39.js"
+    "static/js/main.4190c6ca.js"
   ]
 }
